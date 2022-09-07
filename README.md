@@ -1,6 +1,5 @@
-# LEC315-STM32-HAL_DRIVER
+# CrazyFlie V2 Simulation model using MATLAB
 
-CrazyFlie V2 Simulation model using MATLAB
 Model uses Realdata for a circule pass logged from Drone 
 
 
